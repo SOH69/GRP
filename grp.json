@@ -4,5 +4,6 @@
     "grp_charmenu",
     "grp_hud",
     "grp_inventory",
-    "grp_priority"
+    "grp_priority",
+    "grp_recipe"
 ]
