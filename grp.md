@@ -1,1 +1,0 @@
-scripts: ['grp_charmenu']
