@@ -1,3 +1,9 @@
-{
-    "grp_charmenu" : true
-}
+[
+    "grp_apartment",
+    "grp_business",
+    "grp_charmenu",
+    "grp_hud",
+    "grp_inventory",
+    "grp_priority",
+    "grp_recipe"
+]
