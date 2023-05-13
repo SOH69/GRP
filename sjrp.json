@@ -2,7 +2,7 @@
     "scripts": [
         {
             "name": "mm_hud",
-            "version": 1.0,
+            "version": 1.2,
             "updateCritical": true,
             "update": "New Script Init"
         }
