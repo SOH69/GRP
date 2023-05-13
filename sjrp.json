@@ -3,7 +3,7 @@
         {
             "name": "mm_hud",
             "version": 1.2,
-            "updateCritical": true,
+            "updateCritical": false,
             "update": "New Script Init"
         }
     ],
