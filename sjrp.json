@@ -1,0 +1,11 @@
+{
+    "scripts": [
+        {
+            "name": "mm_hud",
+            "version": "1.0",
+            "update": "New Script Init"
+        }
+    ],
+    "author": "Master Mind#8816",
+    "validity": "server validity"
+}
