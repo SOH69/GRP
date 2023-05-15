@@ -2,9 +2,9 @@
     "scripts": [
         {
             "name": "mm_hud",
-            "version": 1.1,
+            "version": 1.2,
             "updateCritical": false,
-            "update": "Fixed Infinite GPS Issues"
+            "update": "Added default margin to hud, changed font and size of hud"
         }
     ],
     "author": "Master Mind#8816",
