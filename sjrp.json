@@ -2,9 +2,9 @@
     "scripts": [
         {
             "name": "mm_hud",
-            "version": 1.3,
+            "version": 1.4,
             "updateCritical": false,
-            "update": "Fixed Money container, shows more info now, added bank command"
+            "update": "Added Sound to seatbelt, CSS update, fuel update to electric cars"
         }
     ],
     "author": "Master Mind#8816",
