@@ -2,9 +2,9 @@
     "scripts": [
         {
             "name": "mm_hud",
-            "version": 1.4,
+            "version": 1.5,
             "updateCritical": false,
-            "update": "Added Sound to seatbelt, CSS update, fuel update to electric cars"
+            "update": "Fixes to seatbelt logic at force vehicle exits"
         }
     ],
     "author": "Master Mind#8816",
