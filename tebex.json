@@ -1,0 +1,12 @@
+{
+    "scripts": [
+        {
+            "name": "mm_inventory",
+            "version": 2.0,
+            "updateCritical": false,
+            "update": "New Version Updated"
+        }
+    ],
+    "author": "Master Mind#8816",
+    "validity": "server validity"
+}
