@@ -2,9 +2,9 @@
     "scripts": [
         {
             "name": "mm_inventory",
-            "version": 2.0,
+            "version": 2.1,
             "updateCritical": false,
-            "update": "New Version Updated"
+            "update": "Added Support for non input item-slot move"
         }
     ],
     "author": "Master Mind#8816",
