@@ -2,9 +2,9 @@
     "scripts": [
         {
             "name": "mm_inventory",
-            "version": 2.1,
+            "version": 2.2,
             "updateCritical": false,
-            "update": "Added Support for non input item-slot move"
+            "update": "Fix to Item Duping"
         }
     ],
     "author": "Master Mind#8816",
