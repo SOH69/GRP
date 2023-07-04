@@ -2,7 +2,7 @@
     "scripts": [
         {
             "name": "mm_inventory",
-            "version": 2.2,
+            "version": 2.0,
             "updateCritical": false,
             "update": "Fix to Item Duping"
         }
