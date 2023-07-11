@@ -1,0 +1,24 @@
+{
+    "scripts": [
+        {
+            "name": "mm_dealership",
+            "version": 1.0,
+            "updateCritical": false,
+            "update": "Init"
+        },
+        {
+            "name": "mm_garbage",
+            "version": 1.0,
+            "updateCritical": false,
+            "update": "Init"
+        },
+        {
+            "name": "qb-jobvehicleshop",
+            "version": 1.0,
+            "updateCritical": false,
+            "update": "Init"
+        }
+    ],
+    "author": "Master Mind#8816",
+    "validity": "server validity"
+}
