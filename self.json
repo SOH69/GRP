@@ -17,6 +17,12 @@
             "version": 1.0,
             "updateCritical": false,
             "update": "Init"
+        },
+        {
+            "name": "mm_business",
+            "version": 1.0,
+            "updateCritical": false,
+            "update": "Init"
         }
     ],
     "author": "Master Mind#8816",
