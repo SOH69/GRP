@@ -1,0 +1,18 @@
+{
+    "scripts": [
+        {
+            "name": "mm_inventory",
+            "version": 2.2,
+            "updateCritical": false,
+            "update": "Fix to Item Duping"
+        },
+        {
+            "name": "mm_airdrop",
+            "version": 2.2,
+            "updateCritical": false,
+            "update": "Fix to Item Duping"
+        }
+    ],
+    "author": "Master Mind#8816",
+    "validity": "server validity"
+}
