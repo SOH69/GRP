@@ -2,9 +2,9 @@
     "scripts": [
         {
             "name": "mm_inventory",
-            "version": 2.2,
+            "version": 2.3,
             "updateCritical": false,
-            "update": "Fix to Item Duping"
+            "update": "Fix to Hack Item Gain"
         }
     ],
     "author": "Master Mind#8816",
