@@ -2,9 +2,9 @@
     "scripts": [
         {
             "name": "mm_inventory",
-            "version": 2.4,
+            "version": 2.5,
             "updateCritical": false,
-            "update": "Fix multiple"
+            "update": "Fix to item loss in stash"
         },
         {
             "name": "mm_airdrop",
