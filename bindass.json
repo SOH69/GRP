@@ -2,9 +2,9 @@
     "scripts": [
         {
             "name": "mm_inventory",
-            "version": 2.2,
+            "version": 2.4,
             "updateCritical": false,
-            "update": "Fix to Item Duping"
+            "update": "Fix multiple"
         },
         {
             "name": "mm_airdrop",
