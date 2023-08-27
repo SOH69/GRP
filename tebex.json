@@ -2,9 +2,9 @@
     "scripts": [
         {
             "name": "mm_inventory",
-            "version": 2.4,
+            "version": 2.5,
             "updateCritical": false,
-            "update": "Fix to weapon decay"
+            "update": "Fix to item loss in stash"
         }
     ],
     "author": "Master Mind#8816",
