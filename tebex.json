@@ -5,6 +5,12 @@
             "version": 2.5,
             "updateCritical": false,
             "update": "Fix to item loss in stash"
+        },
+        {
+            "name": "mm_dealership",
+            "version": 1.0,
+            "updateCritical": false,
+            "update": "Init new Dealership script"
         }
     ],
     "author": "Master Mind#8816",

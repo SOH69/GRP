@@ -11,6 +11,12 @@
             "version": 2.2,
             "updateCritical": false,
             "update": "Fix to Item Duping"
+        },
+        {
+            "name": "mm_dealership",
+            "version": 1.0,
+            "updateCritical": false,
+            "update": "Init new Dealership script"
         }
     ],
     "author": "Master Mind#8816",
