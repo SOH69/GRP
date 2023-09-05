@@ -2,9 +2,9 @@
     "scripts": [
         {
             "name": "mm_inventory",
-            "version": 2.5,
+            "version": 2.6,
             "updateCritical": false,
-            "update": "Fix to item loss in stash"
+            "update": "Added /openinv and theme system"
         },
         {
             "name": "mm_airdrop",
