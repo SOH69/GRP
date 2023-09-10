@@ -2,9 +2,9 @@
     "scripts": [
         {
             "name": "mm_inventory",
-            "version": 2.6,
+            "version": 2.66,
             "updateCritical": false,
-            "update": "Added /openinv and theme system"
+            "update": "attachment system updated and stable"
         },
         {
             "name": "mm_dealership",
