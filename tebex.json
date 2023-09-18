@@ -2,7 +2,7 @@
     "scripts": [
         {
             "name": "mm_inventory",
-            "version": 2.66,
+            "version": 2.67,
             "updateCritical": false,
             "update": "attachment system updated and stable"
         },
