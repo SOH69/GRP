@@ -4,7 +4,7 @@
             "name": "mm_inventory",
             "version": 2.68,
             "updateCritical": false,
-            "update": "Fixed few Security flaws and added log on open inventory"
+            "update": "Fixed few Security flaws and added log on open inventory(NOTE: CHECK THE README FILE MUST)"
         },
         {
             "name": "mm_dealership",
