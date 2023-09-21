@@ -2,9 +2,9 @@
     "scripts": [
         {
             "name": "mm_inventory",
-            "version": 2.67,
+            "version": 2.68,
             "updateCritical": false,
-            "update": "attachment system updated and stable"
+            "update": "Fixed few Security flaws and added log on open inventory"
         },
         {
             "name": "mm_airdrop",
