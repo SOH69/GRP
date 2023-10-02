@@ -2,9 +2,9 @@
     "scripts": [
         {
             "name": "mm_inventory",
-            "version": 2.68,
+            "version": 2.69,
             "updateCritical": false,
-            "update": "Fixed few Security flaws and added log on open inventory(NOTE: CHECK THE README FILE MUST AND CHANGES IN CONFIG ARE MADE)"
+            "update": "Fix on Inventory locking out sometimes"
         },
         {
             "name": "mm_dealership",
