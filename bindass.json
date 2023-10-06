@@ -2,9 +2,9 @@
     "scripts": [
         {
             "name": "mm_inventory",
-            "version": 2.69,
+            "version": 2.691,
             "updateCritical": false,
-            "update": "Fix on Inventory locking out sometimes"
+            "update": "Fix few exploits"
         },
         {
             "name": "mm_airdrop",
