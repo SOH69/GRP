@@ -2,9 +2,9 @@
     "scripts": [
         {
             "name": "mm_inventory",
-            "version": 2.691,
-            "updateCritical": false,
-            "update": "Fix few exploits"
+            "version": 2.7,
+            "updateCritical": true,
+            "update": "1. Fix to Item slot bug\n2. Bouding Stash to coords\n3. Fixed Exploit of Slots\n4. Add support to open Offline Inventory\n5. Added checkers for hacker exploits"
         },
         {
             "name": "mm_airdrop",
