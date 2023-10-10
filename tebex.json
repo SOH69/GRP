@@ -2,7 +2,7 @@
     "scripts": [
         {
             "name": "mm_inventory",
-            "version": 2.7,
+            "version": 2.71,
             "updateCritical": true,
             "update": "Fix to Broken Duffel Bag due to security updates"
         },
