@@ -8,9 +8,9 @@
         },
         {
             "name": "mm_airdrop",
-            "version": 2.2,
+            "version": 1.0,
             "updateCritical": false,
-            "update": "Fix to Item Duping"
+            "update": "Init New Airdrop"
         },
         {
             "name": "mm_dealership",
