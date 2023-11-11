@@ -2,9 +2,9 @@
     "scripts": [
         {
             "name": "mm_inventory",
-            "version": 2.71,
+            "version": 2.72,
             "updateCritical": true,
-            "update": "Fix to Broken Duffel Bag due to security updates"
+            "update": "1. Added support to lb-phone unique item\n2. Fix to disable slot on item use"
         },
         {
             "name": "mm_dealership",
