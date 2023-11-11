@@ -3,7 +3,7 @@
         {
             "name": "mm_inventory",
             "version": 2.72,
-            "updateCritical": true,
+            "updateCritical": false,
             "update": "1. Added support to lb-phone unique item\n2. Fix to disable slot on item use"
         },
         {
