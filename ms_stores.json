@@ -1,0 +1,12 @@
+{
+    "scripts": [
+        {
+            "name": "ms_scoreboard",
+            "version": 1.1,
+            "updateCritical": false,
+            "update": "1. Added Support to Character Name. 2. Added Support for icons. 3.Fix to discord bridge"
+        }
+    ],
+    "author": "ARS SHANTO/MASTER MIND",
+    "validity": "server validity"
+}
