@@ -23,6 +23,12 @@
             "version": 1.0,
             "updateCritical": false,
             "update": "Init"
+        },
+        {
+            "name": "ms_scoreboard",
+            "version": 1.1,
+            "updateCritical": false,
+            "update": "Init"
         }
     ],
     "author": "Master Mind#8816",
