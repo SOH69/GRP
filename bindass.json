@@ -2,9 +2,9 @@
     "scripts": [
         {
             "name": "mm_inventory",
-            "version": 2.71,
-            "updateCritical": true,
-            "update": "Fix to Broken Duffel Bag due to security updates"
+            "version": 2.73,
+            "updateCritical": false,
+            "update": "1. Added qb clothing support.\n2. Fix to give item stack health.\n3. Remove blur on restart"
         },
         {
             "name": "mm_airdrop",
