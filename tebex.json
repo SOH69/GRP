@@ -2,9 +2,9 @@
     "scripts": [
         {
             "name": "mm_inventory",
-            "version": 2.72,
+            "version": 2.73,
             "updateCritical": false,
-            "update": "1. Added support to lb-phone unique item\n2. Fix to disable slot on item use"
+            "update": "1. Added qb clothing support.\n2. Fix to give item stack health.\n3. Remove blur on restart"
         },
         {
             "name": "mm_dealership",
