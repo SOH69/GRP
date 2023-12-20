@@ -8,9 +8,9 @@
         },
         {
             "name": "mm_dealership",
-            "version": 1.1,
+            "version": 1.11,
             "updateCritical": false,
-            "update": "Update 1.1"
+            "update": "Fix to typo issues on update vehicle data"
         }
     ],
     "author": "Master Mind#8816",
