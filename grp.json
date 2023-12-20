@@ -2,5 +2,6 @@
     "grp_apartment",
     "grp_business",
     "grp_priority",
-    "grp_recipe"
+    "grp_recipe",
+    "grp_hud"
 ]
