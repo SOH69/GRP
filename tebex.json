@@ -2,9 +2,9 @@
     "scripts": [
         {
             "name": "mm_inventory",
-            "version": 2.73,
+            "version": 2.74,
             "updateCritical": false,
-            "update": "1. Added qb clothing support.\n2. Fix to give item stack health.\n3. Remove blur on restart"
+            "update": "1. Performace Improved \n2. New Exports, features added \n3. Bug fixes any many more check #update log in discord"
         },
         {
             "name": "mm_dealership",
