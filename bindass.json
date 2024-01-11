@@ -2,9 +2,9 @@
     "scripts": [
         {
             "name": "mm_inventory",
-            "version": 2.74,
+            "version": 2.75,
             "updateCritical": false,
-            "update": "1. Improved UI Performance. \n2. Added event handler on add/remove item. \n3. Remove close inventory on drop"
+            "update": "1. Linted Script\n2. Optimized Image Loading\n3. Converted Image .png to .webp"
         },
         {
             "name": "mm_airdrop",
