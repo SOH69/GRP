@@ -2,9 +2,9 @@
     "scripts": [
         {
             "name": "mm_inventory",
-            "version": 2.75,
+            "version": 2.751,
             "updateCritical": false,
-            "update": "1. Linted Script\n2. Optimized Image Loading\n3. Converted Image .png to .webp"
+            "update": "1. Fix Few Glitch Probability\n2. Fix item slot type erro\n3. Removed Slot Spam"
         },
         {
             "name": "mm_airdrop",
