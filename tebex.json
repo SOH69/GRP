@@ -2,9 +2,9 @@
     "scripts": [
         {
             "name": "mm_inventory",
-            "version": 2.751,
+            "version": 2.752,
             "updateCritical": false,
-            "update": "1. Fix Few Glitch Probability\n2. Fix item slot type erro\n3. Removed Slot Spam"
+            "update": "1. Refined Drop Logic"
         },
         {
             "name": "mm_dealership",
