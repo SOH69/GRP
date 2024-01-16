@@ -11,6 +11,12 @@
             "version": 1.11,
             "updateCritical": false,
             "update": "Fix to typo issues on update vehicle data"
+        },
+        {
+            "name": "mm_hud",
+            "version": 1.01,
+            "updateCritical": false,
+            "update": "Init Hud Update"
         }
     ],
     "author": "Master Mind#8816",
