@@ -14,9 +14,9 @@
         },
         {
             "name": "mm_hud",
-            "version": 1.01,
+            "version": 1.02,
             "updateCritical": false,
-            "update": "Init Hud Update"
+            "update": "Added Outline Support to Enhancement"
         }
     ],
     "author": "Master Mind#8816",
