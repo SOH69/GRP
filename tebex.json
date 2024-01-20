@@ -14,9 +14,9 @@
         },
         {
             "name": "mm_hud",
-            "version": 1.02,
+            "version": 1.03,
             "updateCritical": false,
-            "update": "Added Outline Support to Enhancement"
+            "update": "1. Added Support for MPH/KMPH. \n2. Added Compass. \n3. Config to Disable Vehicle Hud.\n4. Seatbelt Sound is now Native.\n5. Changed All Tick to Interval"
         }
     ],
     "author": "Master Mind#8816",
