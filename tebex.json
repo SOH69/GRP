@@ -14,9 +14,9 @@
         },
         {
             "name": "mm_hud",
-            "version": 1.03,
+            "version": 1.04,
             "updateCritical": false,
-            "update": "1. Added Support for MPH/KMPH. \n2. Added Compass. \n3. Config to Disable Vehicle Hud.\n4. Seatbelt Sound is now Native.\n5. Changed All Tick to Interval"
+            "update": "1. Fix to Item not giving back /removegps.\n2. Added Transition to vehicle hud.\n3. Fix hud not hiding on pausemenu."
         }
     ],
     "author": "Master Mind#8816",
