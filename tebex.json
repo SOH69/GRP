@@ -2,9 +2,9 @@
     "scripts": [
         {
             "name": "mm_inventory",
-            "version": 2.753,
+            "version": 2.754,
             "updateCritical": false,
-            "update": "1. Revised Logic to Remove from Stash Logic.\n2. Added New Item Filter Logic in Stash/trunk/glovebox"
+            "update": "1. Fix to issues on drop accesible from any point"
         },
         {
             "name": "mm_dealership",
