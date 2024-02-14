@@ -14,9 +14,9 @@
         },
         {
             "name": "mm_hud",
-            "version": 1.04,
+            "version": 1.1,
             "updateCritical": false,
-            "update": "1. Fix to Item not giving back /removegps.\n2. Added Transition to vehicle hud.\n3. Fix hud not hiding on pausemenu."
+            "update": "1. Optimized codebase\n2. New seatbelt logic.\n3. Threads are now managed by lua.\n 4. New easy Config file\n 5. Added new native sounds"
         }
     ],
     "author": "Master Mind#8816",
