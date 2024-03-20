@@ -20,7 +20,7 @@
         },
         {
             "name": "mm_airdrop",
-            "version": 1.0,
+            "version": 1.01,
             "updateCritical": false,
             "update": "Init New Airdrop"
         }
