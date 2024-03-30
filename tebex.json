@@ -20,9 +20,9 @@
         },
         {
             "name": "mm_airdrop",
-            "version": 1.01,
+            "version": 1.02,
             "updateCritical": false,
-            "update": "Init New Airdrop"
+            "update": "1. Fix to weapon reward in ox\n2. Added Configurable Crate Opening"
         }
     ],
     "author": "Master Mind#8816",
