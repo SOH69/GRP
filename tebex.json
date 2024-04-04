@@ -8,15 +8,15 @@
         },
         {
             "name": "mm_dealership",
-            "version": 1.11,
+            "version": 1.12,
             "updateCritical": false,
-            "update": "Fix to typo issues on update vehicle data"
+            "update": "Added config for buydirect to individual shop"
         },
         {
             "name": "mm_hud",
-            "version": 1.1,
+            "version": 1.11,
             "updateCritical": false,
-            "update": "1. Optimized codebase\n2. New seatbelt logic.\n3. Threads are now managed by lua.\n 4. New easy Config file\n 5. Added new native sounds"
+            "update": "1. fix map position issue\n2. Sync mph/kmph for ts->lua"
         },
         {
             "name": "mm_airdrop",
