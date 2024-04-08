@@ -20,9 +20,9 @@
         },
         {
             "name": "mm_airdrop",
-            "version": 1.02,
+            "version": 1.03,
             "updateCritical": false,
-            "update": "1. Fix to weapon reward in ox\n2. Added Configurable Crate Opening"
+            "update": "1. Fix to explosion sync\n2. Enchanced drop coords retreval\n3. Improved drop going through map\n4. Added notify inside tablet"
         }
     ],
     "author": "Master Mind#8816",
