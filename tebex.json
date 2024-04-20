@@ -8,9 +8,9 @@
         },
         {
             "name": "mm_dealership",
-            "version": 1.12,
+            "version": 1.13,
             "updateCritical": false,
-            "update": "Added config for buydirect to individual shop"
+            "update": "1. Instanced stock variable to shop\n2.Fixed QB target issues.\n3. Fixed on load issues"
         },
         {
             "name": "mm_hud",
