@@ -20,9 +20,9 @@
         },
         {
             "name": "mm_airdrop",
-            "version": 1.04,
+            "version": 1.05,
             "updateCritical": false,
-            "update": "1. Added Log System.\n2. Fix to incorrect drop count calculation.\n3. Access to code for cmd /airdrop"
+            "update": "Misc Updates"
         }
     ],
     "author": "Master Mind#8816",
