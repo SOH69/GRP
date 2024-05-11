@@ -20,9 +20,9 @@
         },
         {
             "name": "mm_airdrop",
-            "version": 1.05,
+            "version": 1.06,
             "updateCritical": false,
-            "update": "Misc Updates"
+            "update": "Fixed Update where mission data dont reset after mission end"
         }
     ],
     "author": "Master Mind#8816",
