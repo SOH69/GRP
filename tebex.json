@@ -14,9 +14,9 @@
         },
         {
             "name": "mm_hud",
-            "version": 1.11,
+            "version": 1.12,
             "updateCritical": false,
-            "update": "1. fix map position issue\n2. Sync mph/kmph for ts->lua"
+            "update": "1. Fix hud font invalid.\n2. Added more flexibility to account show.\n3. Added more configuration options"
         },
         {
             "name": "mm_airdrop",
