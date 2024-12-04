@@ -20,9 +20,9 @@
         },
         {
             "name": "mm_airdrop",
-            "version": 1.06,
+            "version": 1.08,
             "updateCritical": false,
-            "update": "Fixed Update where mission data dont reset after mission end"
+            "update": "1. Fixed mission coords issue(export)\n2. Better console debug messages"
         }
     ],
     "author": "Master Mind#8816",
